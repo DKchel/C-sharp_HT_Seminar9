@@ -1,0 +1,15 @@
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\obj\Debug\net6.0\HomeTask02.csproj.AssemblyReference.cache
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\obj\Debug\net6.0\HomeTask02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\obj\Debug\net6.0\HomeTask02.AssemblyInfoInputs.cache
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\obj\Debug\net6.0\HomeTask02.AssemblyInfo.cs
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\obj\Debug\net6.0\HomeTask02.csproj.CoreCompileInputs.cache
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\bin\Debug\net6.0\HomeTask02.exe
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\bin\Debug\net6.0\HomeTask02.deps.json
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\bin\Debug\net6.0\HomeTask02.runtimeconfig.json
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\bin\Debug\net6.0\HomeTask02.dll
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\bin\Debug\net6.0\HomeTask02.pdb
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\obj\Debug\net6.0\HomeTask02.dll
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\obj\Debug\net6.0\refint\HomeTask02.dll
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\obj\Debug\net6.0\HomeTask02.pdb
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\obj\Debug\net6.0\HomeTask02.genruntimeconfig.cache
+C:\Users\KDA\Desktop\lec2 rekursia\Hometasks\HomeTask02\obj\Debug\net6.0\ref\HomeTask02.dll
